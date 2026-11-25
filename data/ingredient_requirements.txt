@@ -1,0 +1,85 @@
+# CSV row (1-based) | required ingredient groups, separated by ; (alternatives /) | optional groups
+1|vegetable oil; tomato; bell pepper; onion; tomato paste; curry powder; thyme; hot pepper; meat stock/chicken stock/beef stock; seasoning cube/salt; rice; water; butter|chicken/fish
+2|vegetable oil; hot pepper; onion; curry powder; thyme; salt; meat stock/chicken stock; rice; bell pepper; carrot; pea; sweet corn|liver/shrimp; kidney beans
+3|bread flour; sugar; salt; vegetable oil; yeast; water; baking soda|
+4|flour; yeast; sugar; salt; water; yogurt; butter; garlic|
+5|flour; sugar; yeast; butter; milk; egg; cooking oil|glaze
+6|bread; chicken; carrot; bell pepper; mayonnaise; salt; pepper|mustard; lettuce
+7|potato; mayonnaise; carrot; cucumber; egg|
+8|egg; water; tomato paste; hot pepper; cooking oil; green bell pepper; red bell pepper; onion; seasoning cube/salt; garlic|spring onion
+9|coconut flakes; sugar; egg; self raising flour|
+10|rice; yeast; sugar; vegetable oil; ginger|
+11|yam|
+12|flour; sugar; butter; nutmeg; egg; evaporated milk; baking powder; olive oil|
+13|beef/goat meat/cow skin/tripe/oxtail; smoked fish; onion; crayfish; seasoning cube; kale/collard greens/spinach; palm oil; red pepper flakes; ogbono/pumpkin seed; salt; black pepper|
+14|flour; sugar; baking powder; salt; milk; butter; egg|
+15|banana; butter; baking soda; salt; sugar; egg; vanilla extract; flour|
+16|flour; water; yeast; sugar; egg; butter; salt|
+17|bread; avocado; lemon juice; salt; pepper; egg; honey|
+18|yam; vegetable stock/water; onion; tomato; bell pepper; hot pepper; mackerel; cow skin; palm oil; salt; seasoning cube; ugu|
+19|oatmeal; milk|banana/berry/strawberry
+20|beef/goat meat/tripe; onion; salt; palm oil; hot pepper; crayfish; waterleaf/spinach; ugu; seasoning cube|
+21|beans; water; baking soda; palm oil; salt/seasoning cube|
+22|okra; beef/goat meat; fish; palm oil; onion; crayfish; locust beans; salt; pepper|
+23|goat meat/beef; peppersoup spice; onion; garlic; water; salt|spring onion
+24|rice; coconut milk; chicken stock/vegetable stock; onion; red bell pepper; green bell pepper; sweet corn; coconut oil; salt; black pepper|
+25|vegetable oil; onion; bell pepper/tomato; hot pepper; curry powder; thyme; garlic; meat stock/chicken stock/fish stock; rice; butter|goat meat/fish
+26|flour; sugar; butter; egg; vanilla extract; baking powder|
+27|egg; flour; sugar; butter; baking powder; water; cooking oil|
+28|minced beef; onion; carrot; potato; water/meat stock; salt; pepper; flour; margarine; egg|
+29|sausage meat; puff pastry; egg|
+30|rice; palm oil; locust beans; smoked fish; onion; bell pepper; salt; pepper|
+31|potato; salt; cooking oil|
+32|yam; salt; cooking oil|
+33|beans; onion; bell pepper; palm oil; salt; smoked fish|
+34|beans; water; palm oil; onion; chili powder; salt|
+35|rice; yeast; sugar; water|
+36|rice flour/maize flour; water|
+37|rice; beans; dried millet leaves; salt|
+38|ugu/spinach/soko; bell pepper; hot pepper; palm oil; onion; beef/goat meat/tripe/cow skin/smoked turkey; stockfish; smoked catfish; locust beans; seasoning cube; crayfish; salt|shrimp; smoked shrimp
+39|abacha; palm oil; crayfish; calabash nutmeg; salt; onion; bell pepper; potash; fish/dried fish|ugba; garden egg; garden egg leaf; egg; cow skin
+40|beef/goat meat/tripe/cow skin/smoked turkey; waterleaf; afang leaf; palm oil; smoked fish; stockfish; periwinkle; hot pepper; crayfish; seasoning cube; salt|
+41|palm nut extract; beef/tripe/goat meat; onion; crayfish; banga spice; salt; pepper; dried fish; bitter leaf/scent leaf|
+42|chicken gizzard; plantain; onion; bell pepper; tomato; hot pepper; vegetable oil; salt; pepper|
+43|plantain|pepper; salt
+44|plantain; egg; flour; salt; cooking oil|sugar
+45|flour; salt; water; cooking oil; cabbage; carrot; bell pepper; soy sauce; pepper|chicken/shrimp
+46|penne pasta; onion; bell pepper; hot pepper; carrot; olive oil; seasoning cube; salt; pepper; tomato paste|
+47|spaghetti; onion; bell pepper; hot pepper; carrot; olive oil; seasoning cube; salt; pepper; tomato paste|
+48|potato; onion; bell pepper; olive oil; salt; pepper|sausage/chicken
+49|yam flour; water; salt; cooking oil|
+50|cocoyam; banana leaf; salt|onion
+51|water yam; onion; palm oil; fish; bell pepper; salt; seasoning cube|
+52|beans; onion; salt; banana leaf/moi moi leaf/cooking bag|
+53|potato; milk; butter; salt; pepper|
+54|beans; red bell pepper; hot pepper; onion; salt; cooking oil|
+55|minced beef; onion; garlic; egg; breadcrumb; salt; pepper; olive oil|
+56|bell pepper; hot pepper; onion; palm oil; beef/goat meat/tripe; locust beans; smoked fish; stockfish; cow skin; egg; seasoning cube; salt|
+57|green bell pepper; hot pepper; onion; beef/liver/tripe; palm oil; locust beans; seasoning cube; salt; crayfish|egg; plantain
+58|egusi; palm oil; ugu/bitter leaf; onion; tomato; red bell pepper; hot pepper; beef/goat meat; fish/shrimp/smoked fish; seasoning cube; salt; water|
+59|rice; vegetable oil; onion; tomato paste; water; seasoning cube; salt; hot pepper; curry powder; thyme|
+60|rice; vegetable oil; onion; curry powder; water/chicken stock; bell pepper; seasoning cube; carrot; pea; sweet corn; salt|
+61|cabbage; carrot; cucumber; mayonnaise|vinegar
+62|cabbage; lettuce; cucumber; macaroni; carrot; sweet corn; baked beans; kidney beans; pea; egg; salad cream/mayonnaise|
+63|bread; egg; sardine; onion; tomato; salt; pepper; butter|
+64|bread; egg; chicken; mayonnaise; onion; salt; pepper; butter|mustard
+65|bread; egg; salt; pepper; butter|
+66|okra; baking soda; seasoning cube; salt|
+67|goat meat; hot pepper; onion; vegetable oil; salt; seasoning cube|
+68|palm oil; onion; tomato; tomato paste; hot pepper; beef/tripe/chicken; salt|
+69|okra; palm oil; beef/goat meat/tripe/cow skin; stockfish; smoked fish; smoked shrimp; crayfish; ugu/spinach/waterleaf/kale; onion; hot pepper; seasoning cube; salt|shrimp; uziza leaf
+70|beef/goat meat/tripe/cow skin; palm oil; bitter leaf; cocoyam; crayfish; ogiri; hot pepper; seasoning cube; salt|smoked fish; stockfish
+71|flour; baking powder; butter/margarine; milk; egg; salt; chicken; carrot; potato; onion; chicken stock; thyme; curry powder; garlic powder; chicken seasoning; seasoning cube|
+72|rice; egg; vegetable oil; carrot; pea; bell pepper; soy sauce/seasoning cube|
+73|onion; ginger; crayfish; cooking oil; seasoning cube; salt|
+74|ofada rice; water; salt|
+75|rice; water; salt|
+76|beans; onion; salt; yam; hot pepper; palm oil|
+77|plantain; vegetable stock/water; onion; tomato; bell pepper; hot pepper; smoked fish; cow skin; palm oil; salt; seasoning cube; ugu|
+78|yam; vegetable oil; plantain; bell pepper; red bell pepper; tomato; onion; hot pepper; seasoning cube; curry powder; thyme; salt|
+79|bread; egg; milk; sugar; vanilla extract; butter/cooking oil|cinnamon; maple syrup; powdered sugar
+80|water yam; onion; hot pepper; salt; cooking oil|
+81|flour; salt; water; chicken; spring onion; soy sauce; sesame oil; ginger; pepper|
+82|flour; sugar; yeast; milk; butter; salt; brown sugar; cinnamon|
+83|fish; olive oil; lemon; garlic; salt; pepper; dill/paprika/parsley|
+84|potato; vegetable stock/water; onion; tomato; bell pepper; hot pepper; smoked fish; cow skin; palm oil; salt; seasoning cube; ugu|
